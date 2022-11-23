@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/react-pet-adoption/static/css/main.31d6cfe0.css",
-    "main.js": "/react-pet-adoption/static/js/main.579a7a5a.js",
-    "index.html": "/react-pet-adoption/index.html",
-    "main.579a7a5a.js.map": "/react-pet-adoption/static/js/main.579a7a5a.js.map"
+    "main.css": "/vue-react-angular/react-pet-adoption/static/css/main.31d6cfe0.css",
+    "main.js": "/vue-react-angular/react-pet-adoption/static/js/main.579a7a5a.js",
+    "index.html": "/vue-react-angular/react-pet-adoption/index.html",
+    "main.579a7a5a.js.map": "/vue-react-angular/react-pet-adoption/static/js/main.579a7a5a.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
