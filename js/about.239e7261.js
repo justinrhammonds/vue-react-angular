@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpet_adoption"]=self["webpackChunkpet_adoption"]||[]).push([[443],{4335:function(n,t,a){a.r(t),a.d(t,{default:function(){return d}});var e=a(3396);const u={class:"about"},o=(0,e._)("h1",null,"This is an about page",-1),r=[o];function s(n,t){return(0,e.wg)(),(0,e.iD)("div",u,r)}var i=a(89);const c={},p=(0,i.Z)(c,[["render",s]]);var d=p}}]);
+//# sourceMappingURL=about.239e7261.js.map
