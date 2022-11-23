@@ -1,8 +1,11 @@
 {
   "name": "pet-adoption",
   "version": "0.1.0",
+  "homepage": "https://justinrhammonds.github.io/vue-pet-adoption",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b vue-gh-pages -d dist",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
@@ -25,6 +28,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-vue": "^8.0.3",
+    "gh-pages": "^4.0.0",
     "prettier": "^2.4.1",
     "typescript": "~4.5.5"
   }
